@@ -27,6 +27,16 @@ Collection of resources for my learning path
 
 ## Lean
 
-[Lean Management Course](https://www.udemy.com/course/lean-management-z/)
+* [Lean Management Course](https://www.udemy.com/course/lean-management-z/)
+
+## Agile
+
+### Articles
+
+* [Agile Story Sizing](https://medium.com/@nrcantor/agile-story-sizing-d079e459753e)
+
+### Scrum
+
+* [Practice assessment for PSM](https://www.scrum.org/open-assessments/scrum-open)
 
 
