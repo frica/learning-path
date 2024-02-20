@@ -39,4 +39,13 @@ Collection of resources for my learning path
 
 * [Practice assessment for PSM](https://www.scrum.org/open-assessments/scrum-open)
 
+## Design Thinking
+
+* A great example, the [IDEO Shopping Cart Project](https://www.youtube.com/watch?v=W6EgoiPxNDs)
+
+## Misc
+
+* [Data fallacies](https://www.litera.com/blog/quick-guide-data-fallacies-and-how-avoid-them)
+* (https://thelondonfinancial.com/business/should-we-abandon-the-just-in-time-system)
+
 
