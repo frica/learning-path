@@ -7,6 +7,8 @@ Collection of resources for my learning path
 
 * https://handbook.gitlab.com/handbook/
 
+* [GitLab with Git Essentials](https://university.gitlab.com/learn/course/gitlab-with-git-essentials-s2)
+
 
 ## Markdown
 
