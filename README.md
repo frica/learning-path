@@ -46,6 +46,6 @@ Collection of resources for my learning path
 ## Misc
 
 * [Data fallacies](https://www.litera.com/blog/quick-guide-data-fallacies-and-how-avoid-them)
-* (https://thelondonfinancial.com/business/should-we-abandon-the-just-in-time-system)
+* [Should we abandon the JIT system?](https://thelondonfinancial.com/business/should-we-abandon-the-just-in-time-system)
 
 
