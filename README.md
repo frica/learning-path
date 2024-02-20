@@ -38,6 +38,9 @@ Collection of resources for my learning path
 ### Scrum
 
 * [Practice assessment for PSM](https://www.scrum.org/open-assessments/scrum-open)
+* [The 28 Characteristics of a Great Scrum Master](https://www.scrum.org/resources/blog/28-characteristics-great-scrum-master)
+* [Comparison between facilitator, coach, mentor and teacher](https://www.scrum.org/resources/comparing-facilitation-coaching-mentoring-and-teaching)
+* [Ken Schwaber Evidence-Based Management Guide](https://www.scrum.org/resources/evidence-based-management-guide)
 
 ## Design Thinking
 
