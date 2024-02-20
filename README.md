@@ -41,6 +41,7 @@ Collection of resources for my learning path
 * [The 28 Characteristics of a Great Scrum Master](https://www.scrum.org/resources/blog/28-characteristics-great-scrum-master)
 * [Comparison between facilitator, coach, mentor and teacher](https://www.scrum.org/resources/comparing-facilitation-coaching-mentoring-and-teaching)
 * [Ken Schwaber Evidence-Based Management Guide](https://www.scrum.org/resources/evidence-based-management-guide)
+* https://www.scrum.org/resources/blog/lean-startup-and-scrum
 
 ## Design Thinking
 
