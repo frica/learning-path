@@ -17,6 +17,26 @@ Collection of resources for my learning path
 
 * https://learn.microsoft.com/en-us/training/paths/evolve-your-devops-practices/
 
+## AI
+
+### Concepts
+
+- [ ] [Introduction to Large Language Models](https://www.cloudskillsboost.google/course_templates/539?locale=en)
+- [ ] [Generative AI Fundamentals](https://www.cloudskillsboost.google/course_templates/556?locale=en)
+- [ ] [AI for Beginners](https://microsoft.github.io/AI-For-Beginners/)
+- [ ] [Introduction to Artificial Intelligence: Why you need to know about artificial intelligence
+](https://www.linkedin.com/learning/introduction-to-artificial-intelligence/why-you-need-to-know-about-artificial-intelligence)
+
+### AI and Healthcare
+
+- [ ] [MOOC AI in Healthcare - KU Leuven](https://med.kuleuven.be/en/study/programmes/AI-in-healthcare)
+- [ ] https://www.coursera.org/specializations/ai-healthcare
+- [ ] [Deep Learning with PyTorch for Medical Image Analysis](https://www.udemy.com/course/deep-learning-with-pytorch-for-medical-image-analysis/)
+
+## Cloud
+
+- [ ] [Laying the foundation for a career in platform engineering](https://cloud.google.com/blog/products/application-development/how-to-become-a-platform-engineer?hl=en)
+
 ## Licenses
 
 * [Software Licenses in Plain English](https://www.tldrlegal.com/)
