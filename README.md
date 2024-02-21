@@ -7,7 +7,7 @@ Collection of resources for my learning path
 
 * https://handbook.gitlab.com/handbook/
 
-* [GitLab with Git Essentials](https://university.gitlab.com/learn/course/gitlab-with-git-essentials-s2)
+* [GitLab with Git Essentials](https://university.gitlab.com/learn/course/gitlab-with-git-essentials-s2) (free)
 
 ## Markdown
 
@@ -15,7 +15,7 @@ Collection of resources for my learning path
 
 ## Azure Devops
 
-* https://learn.microsoft.com/en-us/training/paths/evolve-your-devops-practices/
+* https://learn.microsoft.com/en-us/training/paths/evolve-your-devops-practices/ (free)
 
 ## AI
 
@@ -43,11 +43,11 @@ Collection of resources for my learning path
 
 ## Docker
 
-* [Docker Mastery: with Kubernetes + Swarm from a Docker Captain](https://www.udemy.com/course/docker-mastery/)
+* [Docker Mastery: with Kubernetes + Swarm from a Docker Captain - Udemy](https://www.udemy.com/course/docker-mastery/)
 
 ## Lean
 
-* [Lean Management Course](https://www.udemy.com/course/lean-management-z/)
+* [Lean Management Course - Udemy](https://www.udemy.com/course/lean-management-z/)
 
 ## Agile
 
@@ -57,7 +57,8 @@ Collection of resources for my learning path
 
 ### Scrum
 
-* [Practice assessment for PSM](https://www.scrum.org/open-assessments/scrum-open)
+* [Practice assessment for PSM](https://www.scrum.org/open-assessments/scrum-open) (free)
+* [PSM II preparation - Udemy](https://www.udemy.com/course/scrum-master-level-ii-certification-preparation-tests/)
 * [The 28 Characteristics of a Great Scrum Master](https://www.scrum.org/resources/blog/28-characteristics-great-scrum-master)
 * [Comparison between facilitator, coach, mentor and teacher](https://www.scrum.org/resources/comparing-facilitation-coaching-mentoring-and-teaching)
 * [Ken Schwaber Evidence-Based Management Guide](https://www.scrum.org/resources/evidence-based-management-guide)
