@@ -21,8 +21,15 @@ Collection of resources for my learning path
 
 ### Concepts
 
+#### Introduction to Generative AI Learning Path - Google
+
+Whole [learning path](https://www.cloudskillsboost.google/paths/118) including:
 * [Introduction to Large Language Models](https://www.cloudskillsboost.google/course_templates/539?locale=en) (Google): Vertex AI, Gemini
 * [Generative AI Fundamentals](https://www.cloudskillsboost.google/course_templates/556?locale=en) (Google): Fondation models, Bard, Hallucinations, Vertex AI Studio, Gemini ⭐
+* [Celebrity recognition case Study](https://www.cloudskillsboost.google/course_sessions/11766882/video/455595) ⭐
+
+#### Others
+
 - [ ] [AI for Beginners](https://microsoft.github.io/AI-For-Beginners/)
 - [ ] [Introduction to Artificial Intelligence: Why you need to know about artificial intelligence
 ](https://www.linkedin.com/learning/introduction-to-artificial-intelligence/why-you-need-to-know-about-artificial-intelligence)
