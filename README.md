@@ -17,6 +17,10 @@ Collection of resources for my learning path
 
 * https://learn.microsoft.com/en-us/training/paths/evolve-your-devops-practices/ (free)
 
+## DevSecOps
+
+- [ ] https://tryhackme.com/path/outline/devsecops
+
 ## AI
 
 ### Concepts
