@@ -44,6 +44,11 @@ Whole [learning path](https://www.cloudskillsboost.google/paths/118) including:
 
 - [ ] [Laying the foundation for a career in platform engineering](https://cloud.google.com/blog/products/application-development/how-to-become-a-platform-engineer?hl=en)
 
+## Infrastructure as Code
+
+### Terraform 
+* [Get Started with Terraform and Docker](https://developer.hashicorp.com/terraform/tutorials/docker-get-started)
+
 ## Licenses
 
 * [Software Licenses in Plain English](https://www.tldrlegal.com/)
