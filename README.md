@@ -9,6 +9,8 @@ Collection of resources for my learning path
 
 * [GitLab with Git Essentials](https://university.gitlab.com/learn/course/gitlab-with-git-essentials-s2) (free)
 
+- [ ] [GitKraken tutorial](https://www.gitkraken.com/learn/git/tutorials)
+
 ## Markdown
 
 * https://www.markdownguide.org/cheat-sheet/
