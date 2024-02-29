@@ -1,3 +1,7 @@
+# Learning path
+
+Collection of resources for my learning path
+
 <!-- vscode-markdown-toc -->
 * [Git](#git)
 * [Markdown](#markdown)
@@ -5,8 +9,6 @@
 * [DevSecOps](#devsecops)
 * [AI](#ai)
     * [Concepts](#concepts)
-        * [Introduction to Generative AI Learning Path - Google](#introduction-to-generative-ai-learning-path---google)
-        * [Others](#others)
     * [AI and Healthcare](#ai-and-healthcare)
 * [Cloud](#cloud)
 * [Infrastructure as Code](#infrastructure-as-code)
@@ -25,9 +27,6 @@
 	autoSave=true
 	/vscode-markdown-toc-config -->
 <!-- /vscode-markdown-toc -->
-# Learning path
-
-Collection of resources for my learning path
 
 ## <a name='git'></a>Git
 
