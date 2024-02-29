@@ -10,6 +10,7 @@ Collection of resources for my learning path
 * [GitLab with Git Essentials](https://university.gitlab.com/learn/course/gitlab-with-git-essentials-s2) (free)
 
 - [ ] [GitKraken tutorial](https://www.gitkraken.com/learn/git/tutorials)
+- [ ] [Free book Pro Git- online, epub, pdf](https://git-scm.com/book/fr/v2) (link for French, but exists also in [English](https://git-scm.com/book/en/v2)) 
 
 ## Markdown
 
