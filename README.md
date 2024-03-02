@@ -5,10 +5,13 @@ Collection of resources for my learning path
 <!-- vscode-markdown-toc -->
 * [Git](#git)
 * [Markdown](#markdown)
+* [Python](#python)
 * [Azure Devops](#azure-devops)
 * [DevSecOps](#devsecops)
 * [AI](#ai)
     * [Concepts](#concepts)
+    * [Tools](#tools)
+    * [Others](#others)
     * [AI and Healthcare](#ai-and-healthcare)
 * [Cloud](#cloud)
 * [Infrastructure as Code](#infrastructure-as-code)
@@ -43,6 +46,10 @@ Collection of resources for my learning path
 
 * https://www.markdownguide.org/cheat-sheet/
 
+## <a name='python'></a>Python
+
+* [NiceGUI](https://nicegui.io/): a moder UI toolkit for Python. Very good documentation.
+
 ## <a name='azure-devops'></a>Azure Devops
 
 * https://learn.microsoft.com/en-us/training/paths/evolve-your-devops-practices/ (free)
@@ -55,14 +62,19 @@ Collection of resources for my learning path
 
 ### <a name='concepts'></a>Concepts
 
-#### <a name='introduction-to-generative-ai-learning-path---google'></a>Introduction to Generative AI Learning Path - Google
+Introduction to Generative AI Learning Path - Google
 
 Whole [learning path](https://www.cloudskillsboost.google/paths/118) including:
 * [Introduction to Large Language Models](https://www.cloudskillsboost.google/course_templates/539?locale=en) (Google): Vertex AI, Gemini
 * [Generative AI Fundamentals](https://www.cloudskillsboost.google/course_templates/556?locale=en) (Google): Fondation models, Bard, Hallucinations, Vertex AI Studio, Gemini ⭐
 * [Celebrity recognition case Study](https://www.cloudskillsboost.google/course_sessions/11766882/video/455595) ⭐
 
-#### <a name='others'></a>Others
+### <a name='tools'></a>Tools
+
+* [LM Studio](https://lmstudio.ai/): trying Gen AI models made easy
+
+
+### <a name='others'></a>Others
 
 - [ ] [AI for Beginners](https://microsoft.github.io/AI-For-Beginners/)
 - [ ] [Introduction to Artificial Intelligence: Why you need to know about artificial intelligence
