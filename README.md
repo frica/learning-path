@@ -48,7 +48,7 @@ Collection of resources for my learning path
 
 ## <a name='python'></a>Python
 
-* [NiceGUI](https://nicegui.io/): a moder UI toolkit for Python. Very good documentation.
+* [NiceGUI](https://nicegui.io/): a modern UI toolkit for Python. Very good documentation.
 
 ## <a name='azure-devops'></a>Azure Devops
 
