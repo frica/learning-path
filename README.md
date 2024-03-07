@@ -39,7 +39,7 @@ Collection of resources for my learning path
 
 * [GitLab with Git Essentials](https://university.gitlab.com/learn/course/gitlab-with-git-essentials-s2) (free)
 
-- [ ] [GitKraken tutorial](https://www.gitkraken.com/learn/git/tutorials)
+* [GitKraken tutorial](https://www.gitkraken.com/learn/git/tutorials)
 - [ ] [Free book Pro Git- online, epub, pdf](https://git-scm.com/book/fr/v2) (link for French, but exists also in [English](https://git-scm.com/book/en/v2)) 
 
 ## <a name='markdown'></a>Markdown
@@ -56,7 +56,7 @@ Collection of resources for my learning path
 
 ## <a name='devsecops'></a>DevSecOps
 
-- [ ] https://tryhackme.com/path/outline/devsecops
+* https://tryhackme.com/path/outline/devsecops : good, but not free if you want to complete the training, some chapters are only available for subscribers.
 
 ## <a name='ai'></a>AI
 
