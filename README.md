@@ -4,6 +4,7 @@ Collection of resources for my learning path
 
 <!-- vscode-markdown-toc -->
 * [Git](#git)
+* [GitHub Actions](#github-actions)
 * [Markdown](#markdown)
 * [Python](#python)
 * [Azure Devops](#azure-devops)
@@ -41,6 +42,10 @@ Collection of resources for my learning path
 
 * [GitKraken tutorial](https://www.gitkraken.com/learn/git/tutorials)
 - [ ] [Free book Pro Git- online, epub, pdf](https://git-scm.com/book/fr/v2) (link for French, but exists also in [English](https://git-scm.com/book/en/v2)) 
+
+## <a name='github-actions'></a>GitHub Actions
+
+- [] [Training path onGithub Actions - Microsoft](https://learn.microsoft.com/en-us/training/paths/automate-workflow-github-actions/)
 
 ## <a name='markdown'></a>Markdown
 
