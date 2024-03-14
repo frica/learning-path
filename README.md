@@ -45,7 +45,7 @@ Collection of resources for my learning path
 
 ## <a name='github-actions'></a>GitHub Actions
 
-- [] [Training path onGithub Actions - Microsoft](https://learn.microsoft.com/en-us/training/paths/automate-workflow-github-actions/)
+- [ ] [Training path onGithub Actions - Microsoft](https://learn.microsoft.com/en-us/training/paths/automate-workflow-github-actions/)
 
 ## <a name='markdown'></a>Markdown
 
