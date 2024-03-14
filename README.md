@@ -17,6 +17,7 @@ Collection of resources for my learning path
 * [Cloud](#cloud)
 * [Infrastructure as Code](#infrastructure-as-code)
     * [Terraform](#terraform)
+    * [Pulumi](#pulumi)
 * [Licenses](#licenses)
 * [Docker](#docker)
 * [Lean](#lean)
@@ -99,6 +100,9 @@ Whole [learning path](https://www.cloudskillsboost.google/paths/118) including:
 
 ### <a name='terraform'></a>Terraform 
 * [Get Started with Terraform and Docker](https://developer.hashicorp.com/terraform/tutorials/docker-get-started)
+
+### <a name='pulumi'></a>Pulumi
+- [ ] [Pulumi documentation](https://www.pulumi.com/docs/get-started/): open-source alternative to Terraform
 
 ## <a name='licenses'></a>Licenses
 
